@@ -1,6 +1,6 @@
 # FontAwesome::Sass
 
-[![Gem Version](https://badge.fury.io/rb/font-awesome-sass.svg)](https://badge.fury.io/rb/font-awesome-sass)
+This is a fork of font-awesome-sass that uses font awesome 4, with sassc support.
 
 'font-awesome-sass' is a Sass-powered version of [FontAwesome](http://fortawesome.github.io/Font-Awesome/) for your Ruby projects and plays nicely with 
  Ruby on Rails, Compass, Sprockets, etc.
